@@ -41,3 +41,46 @@ C:\Users\Youri\Visual Studio 2019\repos\IntakeApp_core\IntakeApp_core\IntakeApp_
 C:\Users\Youri\Visual Studio 2019\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.Views.pdb
 C:\Users\Youri\Visual Studio 2019\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.csproj.CopyComplete
 C:\Users\Youri\Visual Studio 2019\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.genruntimeconfig.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.csprojAssemblyReference.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.AssemblyInfoInputs.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.AssemblyInfo.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.csproj.CoreCompileInputs.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.RazorAssemblyInfo.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.RazorAssemblyInfo.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\staticwebassets\IntakeApp_core.StaticWebAssets.Manifest.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\staticwebassets\IntakeApp_core.StaticWebAssets.xml
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntakeApp_core.styles.css
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.TagHelpers.input.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.TagHelpers.output.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.RazorCoreGenerate.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.RazorTargetAssemblyInfo.cache
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.RazorTargetAssemblyInfo.cs
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.dll
+C:\Users\Judith\Source\Repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.pdb
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.exe
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.deps.json
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.runtimeconfig.json
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.runtimeconfig.dev.json
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.pdb
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.Views.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\IntakeApp_core.Views.pdb
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.Views.pdb
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.csproj.CopyComplete
+C:\Users\Judith\source\repos\IntakeApp_core\IntakeApp_core\IntakeApp_core\obj\Debug\netcoreapp3.1\IntakeApp_core.genruntimeconfig.cache
