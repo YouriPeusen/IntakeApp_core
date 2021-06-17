@@ -13,8 +13,6 @@ namespace IntakeApp_core.Pages
 	{
 		private readonly ILogger<IndexModel> _logger;
 
-		Dal dal = new Dal();
-
 		public IndexModel(ILogger<IndexModel> logger)
 		{
 			_logger = logger;
@@ -24,6 +22,7 @@ namespace IntakeApp_core.Pages
 		{
 
 		}
+		Dal dal = new Dal();
 
 		public void OnPostInput()
 		{
