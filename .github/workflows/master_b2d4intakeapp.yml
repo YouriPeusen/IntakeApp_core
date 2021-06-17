@@ -22,10 +22,8 @@ jobs:
         dotnet-version: '3.1.301'
         include-prerelease: true
         
-    - task: DotNetCoreCLI@2
-      inputs:
-      command: 'build' 
-      projects: 'IntakeApp_core/IntakeApp_core.sln'
+    - name: Publish to folder
+      run: msbuild /nologo /verbosity:m /t:Build /t:pipelinePreDeployCopyAllFilesToOneFolder /p:_PackageTempDir="\published\"
     
     - name: Build with dotnet
       run: dotnet build --configuration Release
